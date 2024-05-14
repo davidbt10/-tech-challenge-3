@@ -1,0 +1,6 @@
+@EMB.API_HostAddress = http://localhost:5172
+
+GET {{EMB.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
